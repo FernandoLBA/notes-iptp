@@ -48,6 +48,6 @@ export class Signup {
   }
 
   redirect() {
-    return window.location.assign("https://pwa-html.netlify.app/pwa-html/signin.html");
+    return window.location.assign("https://pwa-html.netlify.app/signin.html");
   }
 }

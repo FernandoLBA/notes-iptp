@@ -40,7 +40,7 @@ export class Notes extends Signin {
 
   redirect() {
     if (!this.getLoggedIn() || this.getLoggedIn() == "0") {
-      window.location.assign("https://pwa-html.netlify.app/pwa-html/signup.html");
+      window.location.assign("https://pwa-html.netlify.app/signup.html");
     }
   }
 }

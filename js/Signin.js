@@ -61,6 +61,6 @@ export class Signin extends Signup {
   }
 
   accessGranted() {
-    return window.location.assign("https://pwa-html.netlify.app/pwa-html/index.html");
+    return window.location.assign("https://pwa-html.netlify.app/index.html");
   }
 }
