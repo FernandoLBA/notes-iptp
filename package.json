@@ -1,0 +1,23 @@
+{
+  "name": "pwa-html",
+  "version": "1.0.0",
+  "description": "📝 Description: This test consist on an PWA for adding notes to a table, after sign up and sign in the page.",
+  "main": "serviceWorker.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandoLBA/notes-iptp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FernandoLBA/notes-iptp/issues"
+  },
+  "homepage": "https://github.com/FernandoLBA/notes-iptp#readme",
+  "devDependencies": {
+    "webpack": "^5.72.0"
+  }
+}

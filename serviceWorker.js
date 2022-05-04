@@ -6,11 +6,9 @@ const assets = [
   "/signin.html",
   "/js/app.js",
   "/js/Notes.js",
-  "/js/notesFunctions.js",
   "/js/Signin.js",
-  "/js/signinFunction.js",
   "/js/Signup.js",
-  "/js/signupFunctions.js",
+  "/js/functions.js"
 ];
 
 self.addEventListener("install", (installEvent) => {
