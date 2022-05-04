@@ -4,4 +4,4 @@
 
 🧷 You can check the test done <a href="https://pwa-html.netlify.app/">here</a>
 
-💻 Stack used: JavaScript, HTML, Bootstrap and POO.
+💻 Stack used: JavaScript, HTML, Bootstrap, Webpack and POO.
