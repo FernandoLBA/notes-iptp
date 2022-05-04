@@ -1,7 +1,7 @@
-# IPTP Network Test
+# 🎈 IPTP Network Test
 
-Description: This test consist on an PWA for adding notes to a table, after sign up and sign in the page.
+📝 Description: This test consist on an PWA for adding notes to a table, after sign up and sign in the page.
 
-You can check the test done <a href="https://pwa-html.netlify.app/">here</a>
+🧷 You can check the test done <a href="https://pwa-html.netlify.app/">here</a>
 
-Stack used: JavaScript, HTML, Bootstrap and POO.
+💻 Stack used: JavaScript, HTML, Bootstrap and POO.
